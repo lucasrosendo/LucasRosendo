@@ -1,4 +1,4 @@
-### Hi there 👋
+### For now, a simple student in this vast world of programming. 😄
 
 <!--
 **lucasrosendo/LucasRosendo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
